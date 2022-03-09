@@ -7,4 +7,4 @@ This project was inspired by the Chess-World project. The code for setting up th
 
 ### RandomMove
 
-The first engine that was produced is one that simply plays a random legal move.
+The first engine that was produced is one that simply plays a random legal move. Hence, it is relatively easy to beat.
